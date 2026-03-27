@@ -26,9 +26,7 @@ Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sun
 - Adding flair to your photos for fun.
 - Practicing computer vision workflows.
 
-## Program and Output:
-## Name :HASNA MUBARAK AZEEM
-## Reg no :212223240052
+  ## PROGRAM:
 
 ```python
 import cv2
