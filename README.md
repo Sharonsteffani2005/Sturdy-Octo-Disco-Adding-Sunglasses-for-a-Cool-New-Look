@@ -1,5 +1,5 @@
-## Name : HASNA MUBARAK AZEEM
-## Reg NO : 212223240052
+## Name :  SHARON STEFFANI.F
+## Reg NO : 212223110049
 
 Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
 
